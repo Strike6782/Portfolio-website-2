@@ -1,0 +1,20 @@
+[
+  {
+    "id": "github",
+    "name": "GitHub",
+    "url": "https://github.com/Strike6782",
+    "icon": "logo-github"
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/in/ivan-balkenende/",
+    "icon": "logo-linkedin"
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "url": "https://www.instagram.com/secondshotmedia",
+    "icon": "logo-instagram"
+  }
+]

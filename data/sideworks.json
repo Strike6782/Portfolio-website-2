@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Event Photography & Videography",
+    "description": "Capturing festivals, weddings, parties and other events.",
+    "image": "./assets/images/projects/secondshotmedia.jpg",
+    "alt": "Second Shot Media",
+    "links": {
+      "website": "https://secondshotmedia.nl",
+      "tiktok": "https://www.tiktok.com/@i.vanb",
+      "instagram": "https://www.instagram.com/secondshotmedia"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Social Media Management",
+    "description": "Managing short content for businesess in the leisure industry, such as theme parks and events.",
+    "image": "./assets/images/projects/secondshotmedia2.jpg",
+    "alt": "Social Media Management",
+    "links": {
+      "website": "https://secondshotmedia.nl",
+      "tiktok": "https://www.tiktok.com/@i.vanb",
+      "instagram": "https://www.instagram.com/secondshotmedia"
+    }
+  },
+  {
+    "id": 3,
+    "title": "GroupStay",
+    "description": "Managing GroupStay, the platform for non-profit organizations to rent out their building, or to find buildings for their camps. ",
+    "image": "./assets/images/projects/groupstay.png",
+    "alt": "GroupStay",
+    "links": {
+      "website": "https://groupstay.org"
+    }
+  },
+  {
+    "id": 4,
+    "title": "World Scout Calendar",
+    "description": "Managing World Scout Calendar, the platform for scouts to find international events and camps.",
+    "image": "./assets/images/projects/worldscoutcalendar.jpg",
+    "alt": "World Scout Calendar",
+    "links": {
+      "website": "https://worldscoutcalendar.org"
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "GroupStay - Website",
+    "description": "A platform that helps non-profit organizations rent out their buildings.",
+    "type": "Solo Project",
+    "image": "./assets/images/projects/groupstay.png",
+    "links": {
+      "website": "https://groupstay.org"
+    }
+  },
+  {
+    "id": 2,
+    "title": "World Scout Calendar - Website",
+    "description": "A platform that helps scouts find international events and camps.",
+    "type": "Solo Project",
+    "image": "./assets/images/projects/worldscoutcalendar.jpg",
+    "links": {
+      "website": "https://worldscoutcalendar.org"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Second Shot Media - Website",
+    "description": "A portfolio website for my photography and videography services.",
+    "type": "Solo Project",
+    "image": "./assets/images/projects/secondshotmedia.jpg",
+    "links": {
+      "website": "https://secondshotmedia.nl"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Pacman - Game",
+    "description": "We rebuild the classic Pacman game in Haskell.",
+    "type": "Pair Project",
+    "image": "./assets/images/projects/pacman.png",
+    "links": {
+      "github": "https://github.com/FennekeH/PacMan"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Alien Masters - Game",
+    "description": "We build a game in Haskell where you shoot down alien spaceships",
+    "type": "Pair Project",
+    "image": "./assets/images/projects/alienmasters.png",
+    "links": {
+      "github": "https://github.com/Strike6782/AlienMasters"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Ray Tracer - Engine",
+    "description": "We build a ray tracer using OpenTK in C#.",
+    "type": "3-Person Project",
+    "image": "./assets/images/projects/raytracer.png",
+    "links": {
+      "github": "https://github.com/FennekeH/Raytracer"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Rasterizer - Engine",
+    "description": "We build a rasterizer using OpenTK in C#.",
+    "type": "3-Person Project",
+    "image": "./assets/images/projects/rasterizer.png",
+    "links": {
+      "github": "https://github.com/eviwsm/Rasterizer"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Public Transport Transit Signal Priority - Simulation",
+    "description": "We researched ways to program a priority system at intersections using SUMO.",
+    "type": "Pair Project",
+    "image": "./assets/images/projects/intersection.png",
+    "links": {}
+  },
+  {
+    "id": 9,
+    "title": "Werewolves - Android App",
+    "description": "We built an digital version of the classic Werewolves game using Java.",
+    "type": "Group Project",
+    "image": "./assets/images/projects/werewolves.png",
+    "links": {
+      "github": "https://git.science.uu.nl/1196340/Werewolves-app"
+    }
+  }
+]
